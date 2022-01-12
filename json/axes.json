@@ -1,0 +1,503 @@
+[
+	{
+		"id": "orgnztn",
+		"name": "Organization",
+		"weights": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+			"left": {
+			"name": "Inclusion",
+			"color": "#d32f2f",
+			"description": ""
+		},
+		"right": {
+			"name": "Exclusion",
+			"color": "#00796b",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "hierarc",
+		"name": "Hierachy",
+		"left": {
+			"name": "Egality",
+			"color": "#0288d1",
+			"description": ""
+		},
+		"right": {
+			"name": "Supremacy",
+			"color": "#f57c00",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "familie",
+		"name": "Family",
+		"left": {
+			"name": "Nuclear",
+			"color": "#fbc02d",
+			"description": ""
+		},
+		"right": {
+			"name": "Blended",
+			"color": "#303f9f",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "compuls",
+		"name": "Compulsion",
+		"left": {
+			"name": "Liberal",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Restraining",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "reserch",
+		"name": "Research",
+		"left": {
+			"name": "Advancement",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Regression",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "humnity",
+		"name": "Humanity",
+		"left": {
+			"name": "Transhumanist",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Bioconservative",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "environ",
+		"name": "Environment",
+		"left": {
+			"name": "Transformation",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Conservation",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "ecology",
+		"name": "Ecology",
+		"left": {
+			"name": "Animalist",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Anthropocentric",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "culther",
+		"name": "Cultures",
+		"left": {
+			"name": "Deconstruction",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Preservation",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "timecon",
+		"name": "Time",
+		"left": {
+			"name": "Futurist",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Historist",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "prmscus",
+		"name": "Promiscuity",
+		"left": {
+			"name": "Open",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Chaste",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "genders",
+		"name": "Genders",
+		"left": {
+			"name": "Abolition",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Binary",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "limrnce",
+		"name": "Orientation",
+		"left": {
+			"name": "Pride",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Repression",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "aborton",
+		"name": "Abortion",
+		"left": {
+			"name": "Choice",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Life",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "compasn",
+		"name": "Compassion",
+		"left": {
+			"name": "Rehabilitative",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Punitive",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "linguis",
+		"name": "Linguistic",
+		"left": {
+			"name": "Fluid",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Standard",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "relgion",
+		"name": "Religion",
+		"left": {
+			"name": "Reform",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Sanctify",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "modrnty",
+		"name": "Modernity",
+		"left": {
+			"name": "Postmodern",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Premodern",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "changes",
+		"name": "Change",
+		"left": {
+			"name": "Fast",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Slow",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	},
+	{
+		"id": "econmic",
+		"name": "Economic",
+		"left": {
+			"name": "New",
+			"color": "#7b1fa2",
+			"description": ""
+		},
+		"right": {
+			"name": "Old",
+			"color": "#689f38",
+			"description": ""
+		},
+		"tiers": [
+			"Fanatically Left",
+			"Extremely Left",
+			"Solidly Left",
+			"Moderate Left",
+			"Centrist",
+			"Moderate Right",
+			"Solidly Right",
+			"Extremely Right",
+			"Fanatically Right"
+		]
+	}
+]

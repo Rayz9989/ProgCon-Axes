@@ -1,0 +1,77 @@
+[
+	{
+		"name": "lol rekt",
+		"stats": {
+			"orgnztn": 0,
+			"hierarc": 0,
+			"familie": 0,
+			"compuls": 0,
+			"reserch": 0,
+			"humnity": 0,
+			"environ": 0,
+			"ecology": 0,
+			"culther": 0,
+			"timecon": 0,
+			"prmscus": 0,
+			"genders": 0,
+			"limrnce": 0,
+			"aborton": 0,
+			"compasn": 0,
+			"linguis": 0,
+			"relgion": 0,
+			"modrnty": 0,
+			"changes": 0,
+			"econmic": 100
+		}
+	},
+	{
+		"name": "cowabunga",
+		"stats": {
+			"orgnztn": 0,
+			"hierarc": 0,
+			"familie": 0,
+			"compuls": 0,
+			"reserch": 0,
+			"humnity": 0,
+			"environ": 0,
+			"ecology": 0,
+			"culther": 0,
+			"timecon": 0,
+			"prmscus": 0,
+			"genders": 0,
+			"limrnce": 0,
+			"aborton": 0,
+			"compasn": 0,
+			"linguis": 0,
+			"relgion": 0,
+			"modrnty": 0,
+			"changes": 0,
+			"econmic": 0
+		}
+	},
+	{
+		"name": "yeehaw",
+		"stats": {
+			"orgnztn": 100,
+			"hierarc": 100,
+			"familie": 100,
+			"compuls": 100,
+			"reserch": 100,
+			"humnity": 100,
+			"environ": 100,
+			"ecology": 100,
+			"culther": 100,
+			"timecon": 100,
+			"prmscus": 100,
+			"genders": 100,
+			"limrnce": 100,
+			"aborton": 100,
+			"compasn": 100,
+			"linguis": 100,
+			"relgion": 100,
+			"modrnty": 100,
+			"changes": 100,
+			"econmic": 100
+		}
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"title": "ProgCon Axes",
+	"version": "Alpha 1",
+	"github": "https://github.com/Rayz9989/ProgCon-Axes/",
+	"link": "rayz9989.github.io/ProgCon-Axes",
+	"description": "ProgCon Axes is a simple political test that aims to categorize test takers on varying definitions/scales/types of progression and conservation. To shed light on the varying conceptions or views of what it means to be progressive or conservative and that (probably) everyone is progressive and conservative in different way depending how it's measured.",
+	"valQuestion": "What are the 40 values?",
+	"valDescription": "There are 20 independent axes - Organization, Hierarchy, Family, Compulsion, Research, Humanity, Environment, Ecology, Cultures, Time, Promiscuity, Genders, Orientations, Abortion, Compassion, Linguistic, Religion, Modernity, Change, and Economic - and each has two opposing values assigned to them. They are:",
+	"mainFont": "Montserrat"
+}
